@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @baptsguw
+- 👀 I’m interested in 2d gamedev
+- 🌱 I’m currently learning c#
+- 📫 How to reach me discord: furrizuv6
